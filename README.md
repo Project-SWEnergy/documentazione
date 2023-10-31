@@ -12,12 +12,12 @@ gruppo.
 
 | Nome | Cognome |
 | --- | --- |
+| Alessandro| Tigani Sava |
+| Carlo | Rosso|
+| Davide | Maffei |
+| Giacomo | Gualato |
 | Matteo | Bando |
 | Niccolò | Carlesso |
-| Giacomo | Gualato |
-| Davide | Maffei |
-| Carlo | Rosso |
-| Alessandro | Tigani Sava |
 
 ## 📨 Come contattarci 
 Email: project.swenergy@gmail.com
