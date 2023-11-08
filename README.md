@@ -10,22 +10,23 @@ gruppo.
 
 ## 🌲Struttura repository
 ```
-documentazione
+documentazione 
 ├─ Candidatura
 │  ├─ Lettera di presentazione.pdf
 │  ├─ Presentazione costi e assunzione impegni.pdf
 │  ├─ Valutazione capitolati.pdf
 │  ├─ Verbali
 │  │  ├─ Esterni
-│  │  │  ├─ Verbale esterno - 2023_10_24 Sanmarco.pdf
-│  │  │  ├─ Verbale esterno - 2023_10_25 AzzurroDigitale.pdf
-│  │  │  └─ Verbale esterno - 2023_10_27 Imola Informatica.pdf
+│  │  │  ├─ 2023-10-24 Sanmarco.pdf
+│  │  │  ├─ 2023-10-25 AzzurroDigitale.pdf
+│  │  │  └─ 2023-10-27 Imola Informatica.pdf
 │  │  └─ Interni
-│  │     ├─ Verbale interno - 01.pdf
-│  │     ├─ Verbale interno - 02.pdf
-│  │     ├─ Verbale interno - 03.pdf
-│  │     ├─ Verbale interno - 04.pdf
-│  │     └─ Verbale interno - 05.pdf
+│  │     ├─ 2023-10-17_I.pdf
+│  │     ├─ 2023-10-18_I.pdf
+│  │     ├─ 2023-10-21_I.pdf
+│  │     ├─ 2023-10-25_I.pdf
+│  │     ├─ 2023-10-27_I.pdf
+│  │     └─ 2023-11-06_I.pdf
 │  └─ Way of working.pdf
 └─ README.md
 ```
